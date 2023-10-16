@@ -22,6 +22,10 @@ int main() {
             result = num1 * num2;
             break;
         case '/':
+            if(num2 == 0) {
+                printf("Can't Divide by Zero");
+                return 0;
+            }
             result = num1 / num2;
             break;
         default:
