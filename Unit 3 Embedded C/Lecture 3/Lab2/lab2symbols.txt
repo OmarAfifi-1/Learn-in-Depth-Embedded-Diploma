@@ -1,0 +1,29 @@
+
+release/lab2.elf:     file format elf32-littlearm
+
+SYMBOL TABLE:
+08000000 l    d  .text	00000000 .text
+20000000 l    d  .data	00000000 .data
+20000004 l    d  .bss	00000000 .bss
+00000000 l    d  .comment	00000000 .comment
+00000000 l    d  .ARM.attributes	00000000 .ARM.attributes
+00000000 l    df *ABS*	00000000 startup.c
+00000000 l    df *ABS*	00000000 main.c
+08000098  w    F .text	0000000c NMI_Handler
+08000098  w    F .text	0000000c Mem_Manage_Handler
+08000098  w    F .text	0000000c Bus_Fault_Handler
+20000004 g       .bss	00000000 _E_bss
+080000a4 g     F .text	00000084 Reset_Handler
+20001004 g       .bss	00000000 Stack_Top
+20000004 g       .data	00000000 _E_DATA
+08000098 g     F .text	0000000c Default_Handler
+20000004 g       .bss	00000000 _S_bss
+20000000 g     O .data	00000004 GPIOC_ODR
+0800001c g     F .text	0000007c main
+08000098  w    F .text	0000000c Usage_Fault_Handler
+20000000 g       .data	00000000 _S_DATA
+08000098  w    F .text	0000000c Hard_Fault_Handler
+08000128 g       .text	00000000 _E_text
+08000000 g     O .text	0000001c Vec_Table
+
+
