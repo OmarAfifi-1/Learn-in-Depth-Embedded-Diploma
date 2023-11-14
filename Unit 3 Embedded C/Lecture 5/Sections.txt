@@ -1,0 +1,27 @@
+
+Release/Malloc_Implemetaion_Lab.elf:     file format elf32-littlearm
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .text         000001b0  00000000  00000000  00010000  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  1 .data         00000000  20000000  000001b0  00020000  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  2 .bss          0000240c  20000000  000001b0  00020000  2**2
+                  ALLOC
+  3 .debug_info   0000028d  00000000  00000000  00020000  2**0
+                  CONTENTS, READONLY, DEBUGGING, OCTETS
+  4 .debug_abbrev 00000199  00000000  00000000  0002028d  2**0
+                  CONTENTS, READONLY, DEBUGGING, OCTETS
+  5 .debug_aranges 00000040  00000000  00000000  00020426  2**0
+                  CONTENTS, READONLY, DEBUGGING, OCTETS
+  6 .debug_line   0000017c  00000000  00000000  00020466  2**0
+                  CONTENTS, READONLY, DEBUGGING, OCTETS
+  7 .debug_str    000001c8  00000000  00000000  000205e2  2**0
+                  CONTENTS, READONLY, DEBUGGING, OCTETS
+  8 .comment      00000049  00000000  00000000  000207aa  2**0
+                  CONTENTS, READONLY
+  9 .ARM.attributes 0000002e  00000000  00000000  000207f3  2**0
+                  CONTENTS, READONLY
+ 10 .debug_frame  000000a0  00000000  00000000  00020824  2**2
+                  CONTENTS, READONLY, DEBUGGING, OCTETS
