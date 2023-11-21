@@ -1,5 +1,5 @@
 # My Progress Through Learn in Depth Diploma
-![Embedded SoC](Pic.jpg)
+![Embedded SoC](https://www.yash.com/wp-content/uploads/2021/06/python-blogn-banner2.png)
 ## Work Sections
 This repository contains the codes required for each lecture or exam throughout the diploma. The reports, runs, simulations, videos and designs are uploaded on a google drive [Here](https://drive.google.com/drive/u/1/folders/1yAjTu2aPpjMnhxqZaWZqF3gurNyyik82), while my quiz scores can be found [Here](https://docs.google.com/spreadsheets/d/1v8WbbSE8ONzNLCfilKyJVyXNOmRcwO3j/edit#gid=2075900150) and the exam scores [Here](https://docs.google.com/spreadsheets/d/1F39uDphKOST4-x407xi4O9DBWbGZQ5ti/edit#gid=1345816106).
 
