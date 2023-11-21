@@ -1,0 +1,1393 @@
+ULTRASONIC_Init
+DC_Motor_Init
+State -> ULTRASONIC_Busy -> Distance = 53
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 53
+State -> DC_Motor_Idle -> Speed = 0
+State -> CA_Driving -> Distance = 53  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 54
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 54
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 54  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 54
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 54
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 54  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 46
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 46
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 46  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 52  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 50  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 50  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 55  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 46
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 46
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 46  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 45
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 45
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 45  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 52  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 52  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 50  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 53
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 53
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 53  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 51
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 51
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 51  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 52  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 48
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 48
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 48  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 52  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 54
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 54
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 54  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 47
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 47
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 47  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 52  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 52  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 53
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 53
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 53  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 55  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 51
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 51
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 51  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 52  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 53
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 53
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 53  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 50  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 51
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 51
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 51  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 52  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 47
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 47
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 47  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 46
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 46
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 46  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 54
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 54
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 54  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 55  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 55  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 47
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 47
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 47  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 49
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 49
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 49  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 54
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 54
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 54  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 52  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 50  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 49
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 49
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 49  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 52  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 50  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 51
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 51
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 51  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 52  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 45
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 45
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 45  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 50  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 45
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 45
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 45  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 50  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 49
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 49
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 49  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 50  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 46
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 46
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 46  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 48
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 48
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 48  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 55  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 51
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 51
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 51  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 45
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 45
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 45  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 45
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 45
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 45  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 51
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 51
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 51  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 52  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 53
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 53
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 53  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 52  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 55  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 48
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 48
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 48  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 50  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 47
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 47
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 47  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 55  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 54
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 54
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 54  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 55  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 48
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 48
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 48  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 55  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 46
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 46
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 46  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 46
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 46
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 46  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 51
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 51
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 51  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 53
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 53
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 53  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 50  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 50  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 47
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 47
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 47  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 49
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 49
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 49  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 51
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 51
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 51  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 51
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 51
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 51  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 50  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 51
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 51
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 51  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 50  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 45
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 45
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 45  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 46
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 46
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 46  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 49
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 49
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 49  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 50  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 51
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 51
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 51  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 50  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 52  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 49
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 49
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 49  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 45
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 45
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 45  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 53
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 53
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 53  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 49
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 49
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 49  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 49
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 49
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 49  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 45
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 45
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 45  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 48
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 48
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 48  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 48
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 48
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 48  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 50  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 53
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 53
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 53  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 49
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 49
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 49  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 52  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 53
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 53
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 53  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 47
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 47
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 47  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 45
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 45
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 45  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 53
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 53
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 53  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 52  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 52  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 49
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 49
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 49  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 46
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 46
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 46  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 50  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 47
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 47
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 47  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 52  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 54
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 54
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 54  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 45
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 45
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 45  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 55  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 48
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 48
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 48  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 53
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 53
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 53  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 49
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 49
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 49  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 46
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 46
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 46  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 51
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 51
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 51  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 47
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 47
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 47  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 54
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 54
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 54  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 47
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 47
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 47  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 48
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 48
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 48  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 51
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 51
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 51  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 50  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 54
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 54
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 54  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 50  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 52  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 49
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 49
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 49  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 51
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 51
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 51  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 46
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 46
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 46  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 55  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 52  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 54
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 54
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 54  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 55  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 52  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 45
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 45
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 45  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 52  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 47
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 47
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 47  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 45
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 45
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 45  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 45
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 45
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 45  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 55  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 52  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 55  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 46
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 46
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 46  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 46
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 46
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 46  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 55  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 54
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 54
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 54  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 54
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 54
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 54  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 54
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 54
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 54  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 51
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 51
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 51  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 51
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 51
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 51  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 46
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 46
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 46  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 52  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 54
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 54
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 54  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 54
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 54
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 54  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 52  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 50  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 53
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 53
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 53  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 46
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 46
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 46  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 48
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 48
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 48  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 45
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 45
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 45  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 55  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 49
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 49
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 49  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 52  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 49
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 49
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 49  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 50  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 52  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 51
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 51
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 51  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 48
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 48
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 48  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 47
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 47
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 47  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 54
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 54
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 54  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 54
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 54
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 54  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 53
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 53
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 53  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 47
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 47
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 47  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 45
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 45
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 45  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 45
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 45
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 45  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 54
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 54
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 54  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 54
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 54
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 54  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 49
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 49
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 49  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 54
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 54
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 54  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 53
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 53
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 53  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 52  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 54
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 54
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 54  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 48
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 48
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 48  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 49
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 49
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 49  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 55  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 50  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 55  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 55  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 53
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 53
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 53  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 55  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 54
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 54
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 54  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 46
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 46
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 46  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 55  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 51
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 51
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 51  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 55  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 55  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 54
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 54
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 54  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 49
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 49
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 49  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 49
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 49
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 49  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 50  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 53
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 53
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 53  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 47
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 47
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 47  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 53
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 53
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 53  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 53
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 53
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 53  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 51
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 51
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 51  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 54
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 54
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 54  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 54
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 54
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 54  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 53
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 53
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 53  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 48
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 48
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 48  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 50  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 52  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 55  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 50  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 48
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 48
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 48  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 47
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 47
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 47  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 55  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 54
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 54
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 54  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 48
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 48
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 48  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 55  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 55  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 46
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 46
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 46  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 55  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 50
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 50
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 50  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Driving -> Distance = 52  Speed = 0 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 55
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 55
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 55  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 52
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 52
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Driving -> Distance = 52  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 30
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 48
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 48
+State -> DC_Motor_Busy -> Speed = 30
+State -> CA_Waiting -> Distance = 48  Speed = 30 
+Signal -> Collision Avoidance -> DC Motor Set Speed To 0
+=============================================================================================
+State -> ULTRASONIC_Busy -> Distance = 47
+Signal -> ULTRASONIC -> Collision Avoidance -> The Current Distance is 47
+State -> DC_Motor_Busy -> Speed = 0
+State -> CA_Waiting -> Distance = 47  Speed = 0 
+Si
