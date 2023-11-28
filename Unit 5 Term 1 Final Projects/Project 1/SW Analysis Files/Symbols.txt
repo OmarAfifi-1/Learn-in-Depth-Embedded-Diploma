@@ -1,0 +1,63 @@
+
+Release/FinalProject1.elf:     file format elf32-littlearm
+
+SYMBOL TABLE:
+08000000 l    d  .text	00000000 .text
+20000000 l    d  .data	00000000 .data
+2000000c l    d  .bss	00000000 .bss
+00000000 l    d  .debug_info	00000000 .debug_info
+00000000 l    d  .debug_abbrev	00000000 .debug_abbrev
+00000000 l    d  .debug_loc	00000000 .debug_loc
+00000000 l    d  .debug_aranges	00000000 .debug_aranges
+00000000 l    d  .debug_line	00000000 .debug_line
+00000000 l    d  .debug_str	00000000 .debug_str
+00000000 l    d  .comment	00000000 .comment
+00000000 l    d  .ARM.attributes	00000000 .ARM.attributes
+00000000 l    d  .debug_frame	00000000 .debug_frame
+00000000 l    df *ABS*	00000000 startup.c
+20000018 l       .bss	00000400 Stack_Top
+00000000 l    df *ABS*	00000000 Alarm.c
+00000000 l    df *ABS*	00000000 Algorithm.c
+00000000 l    df *ABS*	00000000 Delay.c
+00000000 l    df *ABS*	00000000 GPIO.c
+00000000 l    df *ABS*	00000000 Pressure_Sensor.c
+20000010 l       .bss	00000004 PS_Pressure_Value
+00000000 l    df *ABS*	00000000 main.c
+08000298  w    F .text	0000000c NMI_Handler
+08000298  w    F .text	0000000c Mem_Manage_Handler
+2000000c g     O .bss	00000001 Alarm_Current_State
+08000298  w    F .text	0000000c Bus_Fault_Handler
+080000f8 g     F .text	00000020 High_Pressure_Detection
+08000234 g     F .text	00000028 ST_PS_Waiting
+080001c8 g     F .text	00000018 GPIO_Get_Pressure_Val
+0800013c g     F .text	00000050 GPIO_Init
+080000cc g     F .text	0000002c ST_Algorithm_Low_Pressure
+2000000d g     O .bss	00000001 Alegorithm_Current_State
+080002a4 g     F .text	00000084 Reset_Handler
+20000014 g     O .bss	00000001 PS_Current_State
+0800001c g     F .text	00000030 ST_Alarm_Off
+20002418 g       .bss	00000000 _Stack_Top
+08000074 g     F .text	0000002c ST_Alarm_Waiting
+2000000c g       .data	00000000 _E_DATA
+0800004c g     F .text	00000028 ST_Alarm_On
+08000298 g     F .text	0000000c Default_Handler
+0800025c g     F .text	00000014 Get_Pressure_Val
+2000000c g       .bss	00000000 _S_bss
+20000004 g     O .data	00000004 Alarm_State
+08000204 g     F .text	00000030 ST_PS_Reading
+08000270 g     F .text	00000028 main
+08000298  w    F .text	0000000c Usage_Fault_Handler
+0800018c g     F .text	0000003c GPIO_Set_Alarm_Actuator
+20000418 g       .bss	00000000 _E_Bss
+20000000 g       .data	00000000 _S_DATA
+20000000 g     O .data	00000004 PS_State
+20000008 g     O .data	00000004 Algorithm_State
+08000118 g     F .text	00000022 Delay
+08000298  w    F .text	0000000c Hard_Fault_Handler
+080001e0 g     F .text	00000024 ST_PS_Init
+08000328 g       .text	00000000 _E_text
+080000a0 g     F .text	0000002c ST_Algorithm_High_Pressure
+08000000 g     O .text	0000001c Vec_Table
+20001418 g       .bss	00000000 _Heap_End
+
+
