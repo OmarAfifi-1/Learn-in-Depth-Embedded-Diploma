@@ -1,0 +1,5 @@
+1 Omar Afifi 4 1 2 3 4 5
+2 Mohamed Afifi 3.6 10 20 30 40 50
+3 Saeed Mahmoud 3.5 10 20 30 40 50
+4 Islam Ahmed 3 11 22 33 44 55
+5 Momen Mekky 3.8 12 34 56 78 90
