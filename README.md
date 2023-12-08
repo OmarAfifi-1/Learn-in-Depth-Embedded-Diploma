@@ -22,3 +22,6 @@ This repository contains the codes required for each lecture or exam throughout 
 ### Unit 4 System Architecting -> Completed ✅
 **Lecture 1:** Created a FIFO(queue) and LIFO(stack) and completed a big school database project using linked lists.\
 **Lecture 2:** Got a deep understanding of state machines and made a collision avoidance robot code based on state machines with simulation for it using TTool.
+### Unit 5 First Term Projects -> Completed ✅
+**Project 1:** Designed a pressure sense system that alerts the workers if the pressure exceeds 20 bars using state machines architecture, designing the system blocks, coding 4 state blocks that alternate depending on the signals that they send between each other and simulating it to ensure that its working (video of simulation is on drive).\
+**Project 2:** Developed a student database system based on FIFO queue structure with many features to manipulate the data, reading it from a file or manually by the user and update it at anytime. Also built this project and the first on using my MakeFile (and the program run testing is on drive).
